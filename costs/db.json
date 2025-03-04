@@ -1,28 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "aadf",
-      "name": "teste",
-      "budget": "123",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "82b1",
-      "name": "ProjetoTeste",
-      "budget": "5000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": "1",
